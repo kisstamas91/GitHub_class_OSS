@@ -1,9 +1,12 @@
 # This is my first GitHub website
 Some basic Git commands are:
 ```
-git status
-git add
-git commit
+from sunpy.map import Map
+
+fn = "obs.fits"
+my_map = Map(fn)
+print("This is my first observation of the Sun")
+my_map.peek()
 ```
 
 TO DO LIST
