@@ -30,3 +30,5 @@ my_map.peek()
 ## In the words of the great unknown phylosopher:
 
 > The physics have its own laws.
+
+[![SDO](thumbnail.jpg)](https://youtu.be/GSVv40M2aks)
