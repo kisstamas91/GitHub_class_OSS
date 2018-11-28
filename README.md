@@ -4,3 +4,4 @@ TO DO LIST
 - Do not forget to go to Doncaster for refereeing
 - Pay the council tax
 - Is it syncronising to GitHub?
+- Add only stuff, because its funny
