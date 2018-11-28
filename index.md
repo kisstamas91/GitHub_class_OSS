@@ -29,4 +29,4 @@ my_map.peek()
 
 ## In the words of the great unknown phylosopher:
 
-> The physics have its laws.
+> The physics have its own laws.
