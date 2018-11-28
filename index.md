@@ -31,4 +31,6 @@ my_map.peek()
 
 > The physics have its own laws.
 
+## A fancy video
+
 [![SDO](thumbnail.jpg)](https://youtu.be/GSVv40M2aks)
