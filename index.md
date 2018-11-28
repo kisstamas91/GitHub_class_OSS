@@ -1,7 +1,9 @@
 # This is my first GitHub website
-Some basic Git commands are:
+##How to get the Sun?
+Use `Sunpy` to download, process and display data about **Our Star**.
+
 ```
-from sunpy.map import Map
+from **sunpy.map** import **Map**
 
 fn = "obs.fits"
 my_map = Map(fn)
@@ -9,7 +11,8 @@ print("This is my first observation of the Sun")
 my_map.peek()
 ```
 
-TO DO LIST
+#TO DO LIST
+##Mostly for today, but I can leave it for tomorrow
 
 - [x] Finish the referee report
 - [ ] Push my commits to GitHub
