@@ -1,4 +1,7 @@
 # This is my first GitHub website
+Some basic Git commands are:
 ```
-from sunpy.map import Map
+git status
+git add
+git commit
 ```
