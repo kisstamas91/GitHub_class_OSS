@@ -33,7 +33,4 @@ my_map.peek()
 
 ## A fancy video
 
-https://youtu.be/GSVv40M2aks
-
-
-[![SDO](thumbnail.jpg)](https://youtu.be/GSVv40M2aks)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GSVv40M2aks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
