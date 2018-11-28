@@ -1,5 +1,5 @@
 # This is my first GitHub website
-##How to get the Sun?
+## How to get the Sun?
 Use `Sunpy` to download, process and display data about **Our Star**.
 
 ```python
@@ -11,14 +11,22 @@ print("This is my first observation of the Sun")
 my_map.peek()
 ```
 
-#TO DO LIST
+## Channels of the Solar Dynamics Observatory
 
-##Mostly for today, but I can leave it for tomorrow
+| Channel | Temperature | Layer |
+| --- | --- |
+| 304 | Quiet cool | Chromosphere |  
+| 171 | Not so hot | Photosphere |
+| --- | --- |
+
+# TO DO LIST
+
+## Mostly for today, but I can leave it for tomorrow
 
 - [x] Finish the referee report
 - [ ] Push my commits to GitHub
 - [ ] Go to Doncaster for bball game
 
-##In the words of the great unknown phylosopher:
+## In the words of the great unknown phylosopher:
 
 > The physics have its laws.
